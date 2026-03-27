@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Globe des Saisons de Voyage</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="//unpkg.com/globe.gl"></script>
+</head>
+<body>
+  <div id="controls">
+    <div class="slider-container">
+      <label for="month-slider" id="month-label">Mois: Janvier</label>
+      <input type="range" id="month-slider" min="1" max="12" value="1">
+    </div>
+  </div>
+
+  <div id="globe-container"></div>
+
+  <div id="tooltip" class="hidden">
+    <h3 id="tt-country">Pays</h3>
+    <p><strong>Période :</strong> <span id="tt-month">Janvier</span></p>
+    <p><strong>Score météo :</strong> <span id="tt-score">-</span>/100</p>
+    <p id="tt-note">Note...</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
