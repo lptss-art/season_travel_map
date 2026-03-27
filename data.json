@@ -2,72 +2,2754 @@
   "FRA": {
     "name": "France",
     "months": {
-      "1": { "score": 40, "note": "Froid, bon pour le ski dans les Alpes." },
-      "2": { "score": 45, "note": "Encore froid, sports d'hiver." },
-      "3": { "score": 60, "note": "Le printemps arrive, le temps s'adoucit." },
-      "4": { "score": 75, "note": "Temps printanier agréable, idéal pour les visites." },
-      "5": { "score": 85, "note": "Superbe météo, pas trop chaud." },
-      "6": { "score": 95, "note": "Parfait avant les grandes foules de l'été." },
-      "7": { "score": 80, "note": "Chaud et très touristique." },
-      "8": { "score": 80, "note": "Chaud, beaucoup de fermetures locales." },
-      "9": { "score": 90, "note": "Excellent moment pour visiter, moins de monde." },
-      "10": { "score": 70, "note": "Couleurs d'automne, temps doux." },
-      "11": { "score": 50, "note": "Devient froid et pluvieux." },
-      "12": { "score": 60, "note": "Froid mais marchés de Noël sympathiques." }
+      "1": {
+        "score": 40,
+        "note": "Froid, bon pour le ski dans les Alpes."
+      },
+      "2": {
+        "score": 45,
+        "note": "Encore froid, sports d'hiver."
+      },
+      "3": {
+        "score": 60,
+        "note": "Le printemps arrive, le temps s'adoucit."
+      },
+      "4": {
+        "score": 75,
+        "note": "Temps printanier agréable, idéal pour les visites."
+      },
+      "5": {
+        "score": 85,
+        "note": "Superbe météo, pas trop chaud."
+      },
+      "6": {
+        "score": 95,
+        "note": "Parfait avant les grandes foules de l'été."
+      },
+      "7": {
+        "score": 80,
+        "note": "Chaud et très touristique."
+      },
+      "8": {
+        "score": 80,
+        "note": "Chaud, beaucoup de fermetures locales."
+      },
+      "9": {
+        "score": 90,
+        "note": "Excellent moment pour visiter, moins de monde."
+      },
+      "10": {
+        "score": 70,
+        "note": "Couleurs d'automne, temps doux."
+      },
+      "11": {
+        "score": 50,
+        "note": "Devient froid et pluvieux."
+      },
+      "12": {
+        "score": 60,
+        "note": "Froid mais marchés de Noël sympathiques."
+      }
     },
     "regions": {}
   },
   "THA": {
     "name": "Thaïlande",
     "months": {
-      "1": { "score": 95, "note": "Saison fraîche et sèche, excellente météo." },
-      "2": { "score": 90, "note": "Encore très bien, commence à se réchauffer." },
-      "3": { "score": 80, "note": "Devient très chaud." },
-      "4": { "score": 60, "note": "Très chaud, festival de Songkran." },
-      "5": { "score": 50, "note": "Début de la saison des pluies." },
-      "6": { "score": 55, "note": "Saison des pluies." },
-      "7": { "score": 55, "note": "Saison des pluies." },
-      "8": { "score": 50, "note": "Pic de la saison des pluies." },
-      "9": { "score": 40, "note": "Fortes pluies et risques d'inondations." },
-      "10": { "score": 60, "note": "La pluie commence à se calmer." },
-      "11": { "score": 85, "note": "Début de la saison sèche et fraîche." },
-      "12": { "score": 95, "note": "Haute saison, météo parfaite." }
+      "1": {
+        "score": 95,
+        "note": "Saison fraîche et sèche, excellente météo."
+      },
+      "2": {
+        "score": 90,
+        "note": "Encore très bien, commence à se réchauffer."
+      },
+      "3": {
+        "score": 80,
+        "note": "Devient très chaud."
+      },
+      "4": {
+        "score": 60,
+        "note": "Très chaud, festival de Songkran."
+      },
+      "5": {
+        "score": 50,
+        "note": "Début de la saison des pluies."
+      },
+      "6": {
+        "score": 55,
+        "note": "Saison des pluies."
+      },
+      "7": {
+        "score": 55,
+        "note": "Saison des pluies."
+      },
+      "8": {
+        "score": 50,
+        "note": "Pic de la saison des pluies."
+      },
+      "9": {
+        "score": 40,
+        "note": "Fortes pluies et risques d'inondations."
+      },
+      "10": {
+        "score": 60,
+        "note": "La pluie commence à se calmer."
+      },
+      "11": {
+        "score": 85,
+        "note": "Début de la saison sèche et fraîche."
+      },
+      "12": {
+        "score": 95,
+        "note": "Haute saison, météo parfaite."
+      }
     },
     "regions": {}
   },
   "AUS": {
     "name": "Australie",
     "months": {
-      "1": { "score": 85, "note": "Été, très chaud par endroits." },
-      "2": { "score": 85, "note": "Fin de l'été, encore chaud." },
-      "3": { "score": 90, "note": "Début de l'automne, très agréable." },
-      "4": { "score": 90, "note": "Automne, super pour la majorité du pays." },
-      "5": { "score": 80, "note": "Se rafraîchit." },
-      "6": { "score": 70, "note": "Hiver au sud, saison sèche au nord." },
-      "7": { "score": 70, "note": "Plein hiver, bien pour le nord." },
-      "8": { "score": 75, "note": "Fin de l'hiver." },
-      "9": { "score": 85, "note": "Printemps, belle météo partout." },
-      "10": { "score": 90, "note": "Mi-printemps, super moment pour visiter." },
-      "11": { "score": 90, "note": "Fin du printemps, se réchauffe." },
-      "12": { "score": 85, "note": "Début de l'été et des vacances." }
+      "1": {
+        "score": 85,
+        "note": "Été, très chaud par endroits."
+      },
+      "2": {
+        "score": 85,
+        "note": "Fin de l'été, encore chaud."
+      },
+      "3": {
+        "score": 90,
+        "note": "Début de l'automne, très agréable."
+      },
+      "4": {
+        "score": 90,
+        "note": "Automne, super pour la majorité du pays."
+      },
+      "5": {
+        "score": 80,
+        "note": "Se rafraîchit."
+      },
+      "6": {
+        "score": 70,
+        "note": "Hiver au sud, saison sèche au nord."
+      },
+      "7": {
+        "score": 70,
+        "note": "Plein hiver, bien pour le nord."
+      },
+      "8": {
+        "score": 75,
+        "note": "Fin de l'hiver."
+      },
+      "9": {
+        "score": 85,
+        "note": "Printemps, belle météo partout."
+      },
+      "10": {
+        "score": 90,
+        "note": "Mi-printemps, super moment pour visiter."
+      },
+      "11": {
+        "score": 90,
+        "note": "Fin du printemps, se réchauffe."
+      },
+      "12": {
+        "score": 85,
+        "note": "Début de l'été et des vacances."
+      }
     },
     "regions": {}
   },
   "BRA": {
     "name": "Brésil",
     "months": {
-      "1": { "score": 85, "note": "Plein été, chaud et festif." },
-      "2": { "score": 95, "note": "Saison du Carnaval, chaud et vibrant." },
-      "3": { "score": 80, "note": "Fin de l'été, encore chaud." },
-      "4": { "score": 75, "note": "Automne, températures agréables." },
-      "5": { "score": 70, "note": "Météo douce." },
-      "6": { "score": 65, "note": "Hiver au sud, agréable ailleurs." },
-      "7": { "score": 65, "note": "Bien pour l'Amazonie, frais au sud." },
-      "8": { "score": 70, "note": "Sec et doux." },
-      "9": { "score": 80, "note": "Le printemps commence, se réchauffe." },
-      "10": { "score": 85, "note": "Belle météo printanière." },
-      "11": { "score": 85, "note": "Devient chaud, pré-été." },
-      "12": { "score": 90, "note": "Début des vacances d'été." }
+      "1": {
+        "score": 85,
+        "note": "Plein été, chaud et festif."
+      },
+      "2": {
+        "score": 95,
+        "note": "Saison du Carnaval, chaud et vibrant."
+      },
+      "3": {
+        "score": 80,
+        "note": "Fin de l'été, encore chaud."
+      },
+      "4": {
+        "score": 75,
+        "note": "Automne, températures agréables."
+      },
+      "5": {
+        "score": 70,
+        "note": "Météo douce."
+      },
+      "6": {
+        "score": 65,
+        "note": "Hiver au sud, agréable ailleurs."
+      },
+      "7": {
+        "score": 65,
+        "note": "Bien pour l'Amazonie, frais au sud."
+      },
+      "8": {
+        "score": 70,
+        "note": "Sec et doux."
+      },
+      "9": {
+        "score": 80,
+        "note": "Le printemps commence, se réchauffe."
+      },
+      "10": {
+        "score": 85,
+        "note": "Belle météo printanière."
+      },
+      "11": {
+        "score": 85,
+        "note": "Devient chaud, pré-été."
+      },
+      "12": {
+        "score": 90,
+        "note": "Début des vacances d'été."
+      }
+    },
+    "regions": {}
+  },
+  "AFG": {
+    "name": "Afghanistan",
+    "months": {
+      "1": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 66,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 66,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "ARM": {
+    "name": "Arménie",
+    "months": {
+      "1": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "AZE": {
+    "name": "Azerbaïdjan",
+    "months": {
+      "1": {
+        "score": 66,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 76,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 88,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "BHR": {
+    "name": "Bahreïn",
+    "months": {
+      "1": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "months": {
+      "1": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 76,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 35,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "BTN": {
+    "name": "Bhoutan",
+    "months": {
+      "1": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "BRN": {
+    "name": "Brunei",
+    "months": {
+      "1": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "KHM": {
+    "name": "Cambodge",
+    "months": {
+      "1": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "CHN": {
+    "name": "Chine",
+    "months": {
+      "1": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "CYP": {
+    "name": "Chypre",
+    "months": {
+      "1": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "GEO": {
+    "name": "Géorgie",
+    "months": {
+      "1": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "IND": {
+    "name": "Inde",
+    "months": {
+      "1": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 36,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "IDN": {
+    "name": "Indonésie",
+    "months": {
+      "1": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 36,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "IRN": {
+    "name": "Iran",
+    "months": {
+      "1": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 63,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "IRQ": {
+    "name": "Irak",
+    "months": {
+      "1": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 66,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "ISR": {
+    "name": "Israël",
+    "months": {
+      "1": {
+        "score": 35,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "JPN": {
+    "name": "Japon",
+    "months": {
+      "1": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "JOR": {
+    "name": "Jordanie",
+    "months": {
+      "1": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "months": {
+      "1": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 81,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "PRK": {
+    "name": "Corée du Nord",
+    "months": {
+      "1": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "KOR": {
+    "name": "Corée du Sud",
+    "months": {
+      "1": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 88,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "KWT": {
+    "name": "Koweït",
+    "months": {
+      "1": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "KGZ": {
+    "name": "Kirghizistan",
+    "months": {
+      "1": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 76,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "LAO": {
+    "name": "Laos",
+    "months": {
+      "1": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 63,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "LBN": {
+    "name": "Liban",
+    "months": {
+      "1": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 81,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 35,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 88,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 33,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "MYS": {
+    "name": "Malaisie",
+    "months": {
+      "1": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "MDV": {
+    "name": "Maldives",
+    "months": {
+      "1": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 81,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "MNG": {
+    "name": "Mongolie",
+    "months": {
+      "1": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "MMR": {
+    "name": "Birmanie (Myanmar)",
+    "months": {
+      "1": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 32,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 66,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "NPL": {
+    "name": "Népal",
+    "months": {
+      "1": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "OMN": {
+    "name": "Oman",
+    "months": {
+      "1": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 35,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "months": {
+      "1": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 76,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "PHL": {
+    "name": "Philippines",
+    "months": {
+      "1": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 90,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "QAT": {
+    "name": "Qatar",
+    "months": {
+      "1": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 35,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 54,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "SAU": {
+    "name": "Arabie saoudite",
+    "months": {
+      "1": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 63,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "SGP": {
+    "name": "Singapour",
+    "months": {
+      "1": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 71,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 52,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 39,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "LKA": {
+    "name": "Sri Lanka",
+    "months": {
+      "1": {
+        "score": 56,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 95,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
+    },
+    "regions": {}
+  },
+  "SYR": {
+    "name": "Syrie",
+    "months": {
+      "1": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 64,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "TWN": {
+    "name": "Taïwan",
+    "months": {
+      "1": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "11": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "12": {
+        "score": 70,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "TJK": {
+    "name": "Tadjikistan",
+    "months": {
+      "1": {
+        "score": 89,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "2": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "3": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "5": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 57,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 81,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 60,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "TLS": {
+    "name": "Timor oriental",
+    "months": {
+      "1": {
+        "score": 72,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 38,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 36,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 30,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "7": {
+        "score": 42,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 85,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "TUR": {
+    "name": "Turquie",
+    "months": {
+      "1": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "4": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 80,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 81,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 93,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 75,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 51,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 41,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 69,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      }
+    },
+    "regions": {}
+  },
+  "TKM": {
+    "name": "Turkménistan",
+    "months": {
+      "1": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 48,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 36,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "6": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "7": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "ARE": {
+    "name": "Émirats arabes unis",
+    "months": {
+      "1": {
+        "score": 74,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 68,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 77,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 45,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "8": {
+        "score": 82,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "9": {
+        "score": 59,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "10": {
+        "score": 91,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 43,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "UZB": {
+    "name": "Ouzbékistan",
+    "months": {
+      "1": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 50,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 49,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 78,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 53,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "8": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 94,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 67,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "VNM": {
+    "name": "Viêt Nam",
+    "months": {
+      "1": {
+        "score": 55,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "2": {
+        "score": 34,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "3": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "4": {
+        "score": 88,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "5": {
+        "score": 84,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "6": {
+        "score": 65,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 86,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 47,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "9": {
+        "score": 92,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "10": {
+        "score": 79,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "11": {
+        "score": 46,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "12": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      }
+    },
+    "regions": {}
+  },
+  "YEM": {
+    "name": "Yémen",
+    "months": {
+      "1": {
+        "score": 40,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "2": {
+        "score": 61,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "3": {
+        "score": 44,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "4": {
+        "score": 37,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "5": {
+        "score": 58,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "6": {
+        "score": 62,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "7": {
+        "score": 88,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "8": {
+        "score": 73,
+        "note": "Bonne période, mais avec quelques risques de précipitations ou températures moyennes."
+      },
+      "9": {
+        "score": 31,
+        "note": "Période moins favorable, risques de pluies intenses ou chaleurs extrêmes."
+      },
+      "10": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "11": {
+        "score": 83,
+        "note": "Excellente période pour visiter, climat idéal."
+      },
+      "12": {
+        "score": 87,
+        "note": "Excellente période pour visiter, climat idéal."
+      }
     },
     "regions": {}
   }
